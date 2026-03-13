@@ -1,6 +1,6 @@
 %
-O[your six digit birthdate]  
-([your name] MAZE) 
+O020511 
+(heler MAZE) 
 (Startup Process)
 T1 M06 	 		(Select tool)
 G54 			(Use Work Offset G54)		
